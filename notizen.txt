@@ -1,0 +1,25 @@
+WAFFEN
+bogen
+armbrust
+wurfsterne
+Speer (melee + throw?)
+
+Pistole (dual? semi?)
+semi gewehr
+auto gewehr
+sniper
+shotgun
+rocket launcher
+grenade launcher
+Feuerwerfer
+
+hammer
+schwerts
+schwerts
+dolch
+Keule
+Krallen
+Messer
+
+Staff
+wand
